@@ -1,0 +1,11 @@
+.card-nota{
+    width:180px;
+    height: fit-content;
+    background-color: rgba(160, 179, 182,0.8);
+    padding: 20px;
+}
+
+.card-titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px ;
+}

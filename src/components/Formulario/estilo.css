@@ -1,0 +1,36 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.form-input-titulo{
+    width:250px;
+    height: 30px;
+    margin:10px auto;
+    border:2px solid transparent;
+    box-shadow: 1px 1px 1px 1px rgb(48, 106, 110);
+    outline: none;
+}
+
+.form-input-texto{
+    width:250px;
+    height: 100px;
+    resize: none;
+    margin:10px auto;
+    border:2px solid transparent;
+    box-shadow: 1px 1px 1px 1px rgb(48, 106, 110);
+    outline: none;
+}
+
+.form-input-btn{
+    width:250px;
+    height: 30px;
+    margin:10px auto;
+}
+
+.form-titulo{
+    font-size: 30px;
+    margin:10px auto;
+    text-align: center;
+}
